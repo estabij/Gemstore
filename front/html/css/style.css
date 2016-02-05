@@ -1,0 +1,37 @@
+body, html {
+    padding: 0;
+    margin: 0;
+    line-height: 1.8em;
+    font-size: 14px;
+}
+
+h1 {  font-size: 2.2em;  }
+h2 {  font-size: 1.6em;  }
+h3 {  font-size: 1.4em;  }
+
+.product-listing {
+    border-radius: 3px;
+    padding: 10px;
+    background-color: #fcfcfc;
+}
+
+.productcontainer, .basket {
+    min-width: 240px;
+    width: 240px;
+    margin: 10px;
+    padding: 20px;
+}
+
+.product {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #efefef;
+}
+
+.product img {
+    margin: 10px 5px;
+}
+
+.productdetails {
+    margin-bottom: 10px;
+}
